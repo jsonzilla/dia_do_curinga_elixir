@@ -5,6 +5,7 @@ elixir:
   - "1.7"
 
 otp_release:
+  - "19.3"
   - "20.2"
 
 before_script:
