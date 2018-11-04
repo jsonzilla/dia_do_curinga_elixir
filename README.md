@@ -1,5 +1,7 @@
 # DiaDoCuringaElixir
 
+[![Build Status](https://travis-ci.com/0um/DiaDoCuringaElixir.svg?branch=master)](https://travis-ci.com/0um/DiaDoCuringaElixir)
+
 A Gregorian calendar converter to an annual calendar with 364 days, each representing a playing card. Divided into 52 weeks and 13 months, all with 28 days. Day 365 is an extra day, the day of the wildcard. Every four years to two extra days the double day of the wildcard.
 
 The count of years begins in 1790
