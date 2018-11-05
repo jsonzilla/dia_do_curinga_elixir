@@ -45,7 +45,7 @@ defmodule DDC.PlayCard do
   end
 
   defp card(card, suit) do
-    b = cardNumber(card) 
+    cardNumber(card) 
     |> Integer.to_string(16)
     |> buildCard(suit)
     |> String.to_integer(16)

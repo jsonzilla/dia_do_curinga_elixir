@@ -15,7 +15,7 @@ Taking into account the southern hemisphere! The seasons of the year are marked 
 
 Build
 ```
-mix
+mix escript.build
 ```
 Test
 ```
